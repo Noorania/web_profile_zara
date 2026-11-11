@@ -9,7 +9,7 @@ export default function About() {
         <SectionHeading
           id="about-title"
           title="Tentang saya"
-          intro="Desainer yang percaya bahwa tampilan yang baik dimulai dari pemahaman yang baik tentang bisnis Anda."
+          intro="Profesional yang percaya bahwa solusi teknologi yang baik dimulai dari pemahaman kebutuhan pengguna dan permasalahan yang dihadapi."
         />
         <div className="about__grid">
           <article className="card about__bio">
