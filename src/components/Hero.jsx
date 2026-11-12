@@ -10,7 +10,7 @@ export default function Hero() {
           <p className="hero__role">{profile.name}, {profile.role}</p>
           <h1 id="hero-title">	Organized Process, Better Results.</h1>
           <p className="hero__lead">
-            Saya membantu bisnis membangun identitas visual dan website yang rapi, jelas, dan terasa premium.
+            Menggabungkan teknologi, kreativitas, dan analisis untuk membangun website, mengelola data, serta merancang pengalaman digital yang modern, fungsional, dan berorientasi pada pengguna.
           </p>
           <div className="hero__cta">
             <a href="#contact" className="btn btn--primary">Mulai proyek <FiArrowRight aria-hidden="true" /></a>
