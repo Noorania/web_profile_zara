@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="container hero__grid">
         <div className="hero__copy">
           <p className="hero__role">{profile.name}, {profile.role}</p>
-          <h1 id="hero-title">Desain yang membuat brand Anda diingat.</h1>
+          <h1 id="hero-title">	Organized Process, Better Results.</h1>
           <p className="hero__lead">
             Saya membantu bisnis membangun identitas visual dan website yang rapi, jelas, dan terasa premium.
           </p>
