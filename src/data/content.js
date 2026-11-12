@@ -49,3 +49,4 @@ export const projects = [
   { title: 'Kelas Daring', category: 'Website', text: 'Landing page pendaftaran kelas dengan konversi tinggi.', tone: 'c' },
   { title: 'Pasar Tani', category: 'Desain UI/UX', text: 'Aplikasi pemesanan hasil tani langsung dari petani.', tone: 'a' },
 ]
+
