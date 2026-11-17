@@ -14,9 +14,7 @@ export default function About() {
         <div className="about__grid">
           <article className="card about__bio">
             <p>
-              Saya Azzahra, desainer brand dan web dengan pengalaman lebih dari enam tahun bersama
-              startup, UMKM, dan komunitas. Saya bekerja langsung dengan pemilik bisnis, jadi setiap
-              keputusan desain punya alasan yang bisa dijelaskan.
+              Saya Azzahra, seorang individu yang tertarik pada dunia teknologi dan pengembangan digital. Dengan menggabungkan kemampuan teknis dan kreativitas, saya berfokus menciptakan solusi digital yang inovatif, efektif, dan berorientasi pada pengguna.
             </p>
           </article>
 
