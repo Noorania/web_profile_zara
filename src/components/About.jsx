@@ -18,11 +18,6 @@ export default function About() {
               startup, UMKM, dan komunitas. Saya bekerja langsung dengan pemilik bisnis, jadi setiap
               keputusan desain punya alasan yang bisa dijelaskan.
             </p>
-            <ul className="facts">
-              {facts.map((f) => (
-                <li key={f.label}><strong>{f.value}</strong><span>{f.label}</span></li>
-              ))}
-            </ul>
           </article>
 
           <article className="card">

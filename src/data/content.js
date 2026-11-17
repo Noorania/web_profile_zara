@@ -1,10 +1,10 @@
-import { FiLayers, FiPenTool, FiCode, FiTrendingUp, FiInstagram, FiLinkedin, FiGithub } from 'react-icons/fi'
+import {  FiCode, FiDatabase, FiPenTool, FiFileText, FiInstagram, FiLinkedin, FiGithub } from 'react-icons/fi'
 import dompetku from '../assets/dompetku.jpeg'
 
 // Ganti seluruh isi file ini dengan data Anda.
 export const profile = {
   name: 'Az-zahra Nurfadila',
-  role: 'Desainer Brand & Web',
+  role: 'Analist & Desainer UI/UX',
   email: 'nurfadilaazzahra315@gmail.com',
   phone: '0895 3756 79715',
   location: 'Indonesia',
@@ -20,7 +20,7 @@ export const navLinks = [
 
 export const socials = [
   { label: 'Instagram', href: 'https://www.instagram.com/azhra_noorfa?utm_source=ig_web_button_share_sheet&srtk=ZDNlZDc0MzIxNw==', Icon: FiInstagram },
-  { label: 'LinkedIn', href: 'https://linkedin.com', Icon: FiLinkedin },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/az-zahra-nurfadila-puspita-ayu-6345872a6?utm_source=share_via&utm_content=profile&utm_medium=member_android', Icon: FiLinkedin },
   { label: 'GitHub', href: 'https://github.com/Noorania', Icon: FiGithub },
 ]
 
@@ -36,9 +36,10 @@ export const missions = [
 ]
 
 export const services = [
-  { title: 'Identitas Brand', text: 'Logo, palet warna, tipografi, dan panduan penggunaan yang konsisten.', Icon: FiLayers },
-  { title: 'Desain UI/UX', text: 'Alur dan tampilan aplikasi yang mudah dipahami pengguna baru.', Icon: FiPenTool },
-  { title: 'Website', text: 'Website cepat dan responsif yang dibangun dengan React.', Icon: FiCode }, 
+  { title: 'Web Development', text: 'Membangun website modern, responsif, dan fungsional.', Icon: FiCode },
+  { title: 'System & Database Analysis', text: 'Menganalisis sistem dan mengelola database secara efisien.', Icon: FiDatabase },
+  { title: 'UI/UX Design', text: 'Merancang desain antarmuka dan prototype menggunakan Figma.', Icon: FiPenTool }, 
+  { title: 'Administration & Documentation', text: 'Mengelola data, administrasi, dan dokumentasi sistem.', Icon: FiFileText },
 ]
 
 export const projects = [
